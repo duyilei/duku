@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 one two three
+=======
+i love you
+>>>>>>> dev
